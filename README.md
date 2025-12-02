@@ -1,4 +1,4 @@
-# Hi, I'm Juan 
+# Hi, I'm Juan 👋
 
 Final-year high school student from Colombia focused on **mechatronics and software development**. I like building automation tools, web apps and game servers.
 
